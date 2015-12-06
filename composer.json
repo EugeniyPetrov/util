@@ -1,0 +1,9 @@
+{
+    "name": "eugeniypetrov/util",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-0": {
+            "EugeniyPetrov\\": "src/"
+        }
+    }
+}
